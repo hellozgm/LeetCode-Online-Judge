@@ -29,3 +29,4 @@ int myAtoi(char* str) {
         result = INT_MIN;    
     return (int)result;
 }
+ 
